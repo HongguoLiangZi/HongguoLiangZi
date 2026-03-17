@@ -15,12 +15,11 @@
 ## 关于我
 
 数字媒体艺术专业大四在读，专注于三维艺术创作与数字可视化设计。  
-擅长 **Blender 三维建模**，持续探索 VR/AR 沉浸式体验与 AI 设计工作流的融合。
+擅长 **Blender 三维建模**。
 
 - 🎓 数字媒体艺术 · 大四
-- 🔭 正在研究：藻井数字化保护 & VR 沉浸式体验
-- 🛠️ 最熟悉：Blender · Photoshop · Premiere · UE5
-- 🤖 也在用：AI 生成工具 · Python 基础
+- 🛠️ 最熟悉：Blender · Photoshop · Premiere
+- 🤖 也在用：Unity/UE5 · AIGC · Python
 - 🌐 作品集：[hongguoliangzi.github.io/portfolio](https://hongguoliangzi.github.io/portfolio)
 
 ---
@@ -40,11 +39,7 @@
 
 ---
 
-## 项目
 
-| 项目 | 描述 | 技术 |
-|------|------|------|
-| [藻井 AR 体验](https://github.com/HongguoLiangZi/zaojing-ar) | 隆福寺天宫藻井 AR 扫描识别体验 | HTML · A-Frame · MindAR |
 | [作品集](https://github.com/HongguoLiangZi/portfolio) | 个人作品集网站 · 建设中 | HTML · CSS · JS |
 
 ---
